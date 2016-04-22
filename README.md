@@ -18,7 +18,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/MBAllely/bookstore.git bookstore`
+* `git clone https://github.com/MBAllely/bookstore.git`
 * change into the new directory
 * `echo export PATH="$HOME/.composer/vendor/bin:$PATH" >> ~/.bash_profile`
 * Start up mamp and point servers to main directory
