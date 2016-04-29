@@ -20,7 +20,6 @@ You will need the following things properly installed on your computer.
 
 * `git clone https://github.com/MBAllely/bookstore.git`
 * change into the new directory
-* `echo export PATH="$HOME/.composer/vendor/bin:$PATH" >> ~/.bash_profile`
 * Start up mamp and point servers to main directory
 * Go to localhost:8888/phpmyadmin in browser and import `bookstore.sql.zip` DB found in bookstore/sites/DB-Backup
 * Create DB username `bookstore` with password `password`
